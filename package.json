@@ -1,0 +1,25 @@
+{
+  "name": "valky",
+  "version": "0.0.1",
+  "description": "A simple utility to deep search an object and return a key of a value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/valky.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whoisandie/valky.git"
+  },
+  "keywords": [
+    "valky",
+    "key",
+    "using",
+    "value"
+  ],
+  "author": "whoisandie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whoisandie/valky/issues"
+  },
+  "homepage": "https://github.com/whoisandie/valky"
+}
