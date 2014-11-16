@@ -3,6 +3,9 @@ Valky
 
 A simple utility to deep search an object and return a key of a value.
 
+[![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=master)](https://travis-ci.org/whoisandie/valky)
+
+
 ## Quickstart
 
 Install the module from npm as shown
