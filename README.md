@@ -3,7 +3,7 @@ Valky
 
 A simple utility to deep search an object and return a key of a value.
 
-[![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=master)](https://travis-ci.org/whoisandie/valky)
+[![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=v0.0.1)](https://travis-ci.org/whoisandie/valky)
 [![npm version](https://badge.fury.io/js/valky.svg)](http://badge.fury.io/js/valky)
 ![Tip to whoisandie](https://img.shields.io/gratipay/whoisandie.svg)
 
@@ -78,7 +78,12 @@ console.log(dbHostTwo);
 ## Developers
 
 Clone the repo using `git clone https://github.com/whoisandie/valky.git. Valky tests are written in mocha.
-To run the tests, install the dependencies and run the `npm test` command as shown.
+To run the tests, install the dependencies and run the npm test` command as shown.
+
+```bash
+git clone https://github.com/whoisandie/valky.git
+cd valky
+```
 
 Once you have cloned, cd into the directory and run the below commands.
 
