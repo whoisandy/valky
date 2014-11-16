@@ -2,7 +2,7 @@
   "name": "valky",
   "version": "0.0.1",
   "description": "A simple utility to deep search an object and return a key of a value.",
-  "main": "index.js",
+  "main": "./lib/valky.js",
   "scripts": {
     "test": "mocha test/valky.js"
   },
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/whoisandie/valky/issues"
   },
-  "homepage": "https://github.com/whoisandie/valky"
+  "homepage": "https://github.com/whoisandie/valky",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
 }
