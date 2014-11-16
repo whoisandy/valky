@@ -5,7 +5,7 @@ A simple utility to deep search an object and return a key of a value.
 
 [![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=master)](https://travis-ci.org/whoisandie/valky)
 [![npm version](https://badge.fury.io/js/valky.svg)](http://badge.fury.io/js/valky)
-[![Tip to whoisandie](//img.shields.io/gratipay/whoisandie.svg)](//img.shields.io/gratipay/whoisandie.svg)
+![Tip to whoisandie](//img.shields.io/gratipay/whoisandie.svg)]
 
 ## Quickstart
 
