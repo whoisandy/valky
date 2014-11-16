@@ -51,7 +51,7 @@ console.log(dbHostTwo);
 // Logs out database.ports.two
 ```
 
-Valky also works with custom delimiters. specify it as a parameter.
+Valky also works with custom delimiters, specify it as a third parameter.
 
 ```js
 var valky = require('valky');
