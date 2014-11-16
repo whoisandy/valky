@@ -69,11 +69,15 @@ console.log(dbHostTwo);
 
 **NOTE:** If the value of two keys are same, the key-val pair first detected takes precedence.
 
-## Testing
+## Developers
 
-To test the library, after installing the depencencies, run `npm test` command
+Clone the repo using `git clone https://github.com/whoisandie/valky.git. Valky tests are written in mocha.
+To run the tests, install the dependencies and run the `npm test` command as shown.
+
+Once you have cloned, cd into the directory and run the below commands.
 
 ```js
+npm install
 npm test
 ```
 
