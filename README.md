@@ -5,7 +5,6 @@ A simple utility to deep search an object and return a key of a value.
 
 [![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=master)](https://travis-ci.org/whoisandie/valky)
 
-
 ## Quickstart
 
 Install the module from npm as shown
@@ -69,6 +68,18 @@ console.log(dbHostTwo);
 ```
 
 **NOTE:** If the value of two keys are same, the key-val pair first detected takes precedence.
+
+## Testing
+
+To test the library, after installing the depencencies, run `npm test` command
+
+```js
+npm test
+```
+
+## Contribution
+
+Want to make a contribution ? Cool! Fork the repo, tweak, add your changes, submit a pull request :) And yes contributions will be appreciated !
 
 ## License
 
