@@ -36,14 +36,18 @@ To get the key of a specific value, use the valky lib as shown
 ```js
 var valky = require('valky');
 
+var appKey = valky(myObject, 'Application');
 var dbUserKey = valky(myObject, 'user');
 var dbPassKey = valky(myObject, 'pass');
 
 var dbHostOne = valky(myObject, 27012);
 var dbHostTwo = valky(myObject, 27013);
 
+console.log(appKey);
 console.log(dbUserKey);
 console.log(dbPassKey);
+
+// Logs out name
 // Logs out database.user
 // Logs out database.pass
 
