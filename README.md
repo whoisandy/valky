@@ -5,7 +5,6 @@ A simple utility to deep search an object and return a key of a value.
 
 [![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=v0.0.1)](https://travis-ci.org/whoisandie/valky)
 [![npm version](https://badge.fury.io/js/valky.svg)](http://badge.fury.io/js/valky)
-![Tip to whoisandie](https://img.shields.io/gratipay/whoisandie.svg)
 
 ## Quickstart
 
@@ -77,7 +76,6 @@ console.log(dbHostTwo);
 
 ## Tests
 
-All tests are written in Mocha.
 Clone the repo using `git clone https://github.com/whoisandie/valky.git`, cd into the directory
 install the dependencies & run the test command as shown.
 
