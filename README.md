@@ -1,10 +1,6 @@
-Valky
-=====
+# Valky [![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=v0.0.1)](https://travis-ci.org/whoisandie/valky) [![npm version](https://badge.fury.io/js/valky.svg)](http://badge.fury.io/js/valky)
 
-A simple utility to deep search an object and return a key of a value.
-
-[![Build Status](https://travis-ci.org/whoisandie/valky.svg?branch=v0.0.1)](https://travis-ci.org/whoisandie/valky)
-[![npm version](https://badge.fury.io/js/valky.svg)](http://badge.fury.io/js/valky)
+> A simple utility to deep search an object and return a key of a value.
 
 ## Quickstart
 
